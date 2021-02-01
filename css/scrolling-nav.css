@@ -3,10 +3,27 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
+
 header {
-  padding: 156px 0 100px;
+    padding: 156px 0 100px;
 }
 
 section {
-  padding: 150px 0;
+    padding: 50px
+}
+
+.curriculum {
+    padding: 0;
+    margin: 100px;
+}
+
+.background {
+    background-color: rgb(207, 207, 199);
+}
+
+.descr {
+    color: aliceblue;
+    font-size: 100;
+    font-style: inherit;
+    padding-top: 2em;
 }
