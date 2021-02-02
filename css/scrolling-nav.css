@@ -14,19 +14,33 @@
     background-size: cover;
 }
 
-section {
-    padding: 50px
-}
-
-.curriculum {
-    padding: 0;
-    margin: 100px;
+.carousel-caption {
+    padding-bottom: 15%;
 }
 
 .background {
     background-color: rgb(207, 207, 199);
 }
 
-.margin-bottom {
-    margin-bottom: 5em;
+.redesNav {
+    padding-right: 15px;
+    padding-left: 0px;
+    margin: 0;
+}
+
+.nomLogo {
+    color: aliceblue;
+    margin-left: 5px;
+}
+
+img {
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.footer {
+    color: aliceblue;
+    font-weight: 100;
+    padding-top: 8px;
+    padding-left: 30px;
 }
