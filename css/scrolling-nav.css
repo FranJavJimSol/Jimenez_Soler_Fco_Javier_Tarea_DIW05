@@ -27,9 +27,6 @@ section {
     background-color: rgb(207, 207, 199);
 }
 
-.descr {
-    color: aliceblue;
-    font-size: 100;
-    font-style: inherit;
-    padding-top: 2em;
+.margin-bottom {
+    margin-bottom: 5em;
 }
