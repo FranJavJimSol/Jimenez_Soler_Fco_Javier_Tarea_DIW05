@@ -4,6 +4,9 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+
+/*! CSS carrusel*/
+
 .carousel-item {
     height: 100vh;
     min-height: 350px;
@@ -17,6 +20,9 @@
 .carousel-caption {
     padding-bottom: 15%;
 }
+
+
+/*! CSS customizado */
 
 .background {
     background-color: rgb(207, 207, 199);
